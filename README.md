@@ -52,6 +52,10 @@ npx react-native run-ios
 cd backend
 npm install
 npm start
-cd backend
-npm install
-npm start
+
+---
+
+### LICENSE (MIT License)
+
+Create a new file `LICENSE` in your repo and paste this text:
+
